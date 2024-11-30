@@ -1,0 +1,1 @@
+# nextjs-go-mysql-app-boilerplate
